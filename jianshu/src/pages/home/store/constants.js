@@ -1,0 +1,3 @@
+export const CHANGE_DATA = 'home/CHANGE_DATA';
+export const ADD_ARITICLELIST='home/ADD_ARITICLELIST';
+export const TOGGLE_SCROLL_TOP='home/TOGGLE_SCROLL_TOP';
